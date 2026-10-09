@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# PyInstaller (pueden contener rutas locales de tu equipo)
+build/
+dist/
+*.spec
+
+# Credenciales (el proyecto no las usa, por precaución)
+.env
+*.key
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
