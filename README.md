@@ -83,7 +83,7 @@ Al completar el nivel 10 aparece la pantalla final.
 
 ## Descarga
 
-Si solo quieres jugar, descarga el ejecutable desde la sección **Releases** (Windows, no requiere Python).
+Si solo quieres jugar, descarga **SiuuBross.exe** desde la sección [Releases](https://github.com/IngFonseca/Siuu-Bross/releases) (Windows, no requiere Python).
 
 ## Instalación
 
